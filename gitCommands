@@ -1,0 +1,33 @@
+git config --global user.name "farazchohan3"
+1. git config --global user.email frazchohan007@gmail.com
+2. git config --global –list
+// clone Github repository
+3. git status
+4. git branch Tahir Sidduqe(Group Member Name)
+5. git checkout Tahir Sidduqe
+// Master
+* Mbilal
+6. git switch master
+// Choose any Editor for coding edit provided HTML file
+7. git add .
+8. git add -A
+9. git add <filename>
+10. git commit -m "Type your message here..."
+11. git push -u origin master
+12. git push --set-upstream origin master
+13. git push --all
+14. git log (After Git Log press shift+q)
+15. git show <commit_id>
+16. git stash
+17. git stash list
+18. git stash apply@{0}
+19. git stash clear
+//Reset command are used for before commit
+20. git reset <filename>
+21. git reset .
+22. git reset --hard
+Revert Commands are used for undo or existing commit
+23. git revert
+24. git revert <Commit_ID>
+25. git fetch
+26. git pull origin master
